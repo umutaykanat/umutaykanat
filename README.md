@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Umut Aykanat</h1>
-<h3 align="center">I am a passionate senior statistics graduate. 
+<h3 align="center">I am a passionate statistics graduate. 
   - 🌱 I’m currently learning programming languages such as Python, SQL, Tableau and R for data science. I'm improving myself at data analysis and data science.</h3>
 
 - 🔭 I’m currently working on **"Stock Price Prediction in Financial Markets Using Machine Learning"**
