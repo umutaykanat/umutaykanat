@@ -13,13 +13,11 @@
 <a href="https://linkedin.com/in/umutaykanat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut aykanat" height="30" width="40" /></a>
 </p>
 
-### 🛠️ Skills
-
 <p align="left">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   
-  <!-- SQL (generic database icon) -->
+  <!-- SQL (PostgreSQL logosu örnek) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="50" height="50"/>
   
   <!-- R -->
@@ -29,7 +27,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
   
   <!-- Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" width="50" height="50"/>
+</p>
+
 </p>
 
 
